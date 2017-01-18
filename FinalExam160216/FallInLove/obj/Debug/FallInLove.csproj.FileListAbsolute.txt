@@ -1,0 +1,6 @@
+C:\Users\3J21\Desktop\FinalExam160216\FallInLove\bin\Debug\FallInLove.exe.config
+C:\Users\3J21\Desktop\FinalExam160216\FallInLove\bin\Debug\FallInLove.exe
+C:\Users\3J21\Desktop\FinalExam160216\FallInLove\bin\Debug\FallInLove.pdb
+C:\Users\3J21\Desktop\FinalExam160216\FallInLove\obj\Debug\FallInLove.csprojResolveAssemblyReference.cache
+C:\Users\3J21\Desktop\FinalExam160216\FallInLove\obj\Debug\FallInLove.exe
+C:\Users\3J21\Desktop\FinalExam160216\FallInLove\obj\Debug\FallInLove.pdb

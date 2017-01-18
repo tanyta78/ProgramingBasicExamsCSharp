@@ -1,0 +1,5 @@
+C:\Users\3J21\Desktop\FinalExam160216\AnswerEncoding\bin\Debug\AnswerEncoding.exe.config
+C:\Users\3J21\Desktop\FinalExam160216\AnswerEncoding\bin\Debug\AnswerEncoding.exe
+C:\Users\3J21\Desktop\FinalExam160216\AnswerEncoding\bin\Debug\AnswerEncoding.pdb
+C:\Users\3J21\Desktop\FinalExam160216\AnswerEncoding\obj\Debug\AnswerEncoding.exe
+C:\Users\3J21\Desktop\FinalExam160216\AnswerEncoding\obj\Debug\AnswerEncoding.pdb

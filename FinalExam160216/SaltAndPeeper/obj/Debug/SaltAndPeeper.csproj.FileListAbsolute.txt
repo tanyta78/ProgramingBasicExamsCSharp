@@ -1,0 +1,6 @@
+C:\Users\3J21\Desktop\FinalExam160216\SaltAndPeeper\bin\Debug\SaltAndPeeper.exe.config
+C:\Users\3J21\Desktop\FinalExam160216\SaltAndPeeper\bin\Debug\SaltAndPeeper.exe
+C:\Users\3J21\Desktop\FinalExam160216\SaltAndPeeper\bin\Debug\SaltAndPeeper.pdb
+C:\Users\3J21\Desktop\FinalExam160216\SaltAndPeeper\obj\Debug\SaltAndPeeper.csprojResolveAssemblyReference.cache
+C:\Users\3J21\Desktop\FinalExam160216\SaltAndPeeper\obj\Debug\SaltAndPeeper.exe
+C:\Users\3J21\Desktop\FinalExam160216\SaltAndPeeper\obj\Debug\SaltAndPeeper.pdb
