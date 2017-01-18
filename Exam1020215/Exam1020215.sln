@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingDescription", "PrintingDescription\PrintingDescription.csproj", "{F633DC1F-F594-4636-A528-4D53CEE2EF9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToNumber", "TextToNumber\TextToNumber.csproj", "{913D3AF5-E672-421F-AD42-5A41B9602525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magictrick", "Magictrick\Magictrick.csproj", "{302F6CA8-54A7-404C-B3B6-F07E3A5DB14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F633DC1F-F594-4636-A528-4D53CEE2EF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F633DC1F-F594-4636-A528-4D53CEE2EF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F633DC1F-F594-4636-A528-4D53CEE2EF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F633DC1F-F594-4636-A528-4D53CEE2EF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913D3AF5-E672-421F-AD42-5A41B9602525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913D3AF5-E672-421F-AD42-5A41B9602525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913D3AF5-E672-421F-AD42-5A41B9602525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913D3AF5-E672-421F-AD42-5A41B9602525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302F6CA8-54A7-404C-B3B6-F07E3A5DB14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302F6CA8-54A7-404C-B3B6-F07E3A5DB14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302F6CA8-54A7-404C-B3B6-F07E3A5DB14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302F6CA8-54A7-404C-B3B6-F07E3A5DB14E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

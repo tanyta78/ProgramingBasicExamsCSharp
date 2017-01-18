@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dci", "dci\dci.csproj", "{FB99A342-9733-4FBF-83ED-B203CB806D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The football statistician", "The football statistician\The football statistician.csproj", "{BDC08C75-699B-458C-960A-B6D947BAE513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Striped Towel", "Striped Towel\Striped Towel.csproj", "{246E7FC5-3948-4C8C-9B83-991A440B0A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleport Points", "Teleport Points\Teleport Points.csproj", "{0014712E-A360-44AD-B6AE-23DFF2F1D42B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB99A342-9733-4FBF-83ED-B203CB806D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB99A342-9733-4FBF-83ED-B203CB806D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB99A342-9733-4FBF-83ED-B203CB806D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB99A342-9733-4FBF-83ED-B203CB806D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC08C75-699B-458C-960A-B6D947BAE513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC08C75-699B-458C-960A-B6D947BAE513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC08C75-699B-458C-960A-B6D947BAE513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC08C75-699B-458C-960A-B6D947BAE513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246E7FC5-3948-4C8C-9B83-991A440B0A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246E7FC5-3948-4C8C-9B83-991A440B0A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246E7FC5-3948-4C8C-9B83-991A440B0A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246E7FC5-3948-4C8C-9B83-991A440B0A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0014712E-A360-44AD-B6AE-23DFF2F1D42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0014712E-A360-44AD-B6AE-23DFF2F1D42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0014712E-A360-44AD-B6AE-23DFF2F1D42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0014712E-A360-44AD-B6AE-23DFF2F1D42B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
