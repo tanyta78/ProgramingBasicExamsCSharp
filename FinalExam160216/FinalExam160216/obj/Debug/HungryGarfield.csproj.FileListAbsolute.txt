@@ -1,6 +1,0 @@
-C:\Users\3J21\Desktop\FinalExam160216\FinalExam160216\bin\Debug\FinalExam160216.exe.config
-C:\Users\3J21\Desktop\FinalExam160216\FinalExam160216\bin\Debug\FinalExam160216.exe
-C:\Users\3J21\Desktop\FinalExam160216\FinalExam160216\bin\Debug\FinalExam160216.pdb
-C:\Users\3J21\Desktop\FinalExam160216\FinalExam160216\obj\Debug\HungryGarfield.csprojResolveAssemblyReference.cache
-C:\Users\3J21\Desktop\FinalExam160216\FinalExam160216\obj\Debug\FinalExam160216.exe
-C:\Users\3J21\Desktop\FinalExam160216\FinalExam160216\obj\Debug\FinalExam160216.pdb
