@@ -1,33 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MaxKSum
+﻿namespace MaxKSum
 {
-    class MaxKSum
+    using System;
+    /// <summary>
+    ///  Write a program that reads two integer numbers N and K and an array of N elements from the console.Find the maximal sum of K elements in the array.
+    /// </summary>
+    
+    public class MaxKSum
     {
-        static void Main(string[] args)
+       public static void Main(string[] args)
         {
-            int N = int.Parse(Console.ReadLine());
-            int K = int.Parse(Console.ReadLine());
-            int[] numbers = new int[N];
+            int arrLenght = int.Parse(Console.ReadLine());
+            int maxSumArrLenght = int.Parse(Console.ReadLine());
+            int[] numbers = new int[arrLenght];
             int sum = 0;
-            
-            for (int i = 0; i < N; i++)
+
+            for (int i = 0; i < arrLenght; i++)
             {
                 numbers[i] = int.Parse(Console.ReadLine());
-                
+            }
 
-            }
             Array.Sort(numbers);
-            for (int i = 0; i < K; i++)
+            for (int i = 0; i < maxSumArrLenght; i++)
             {
-                sum += numbers[N - 1 - i];
+                sum += numbers[arrLenght - 1 - i];
             }
+
             Console.WriteLine(sum);
-            
         }
     }
 }

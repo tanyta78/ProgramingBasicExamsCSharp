@@ -1,14 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CompareCharArrays
 {
-    class CompareCharArrays
+   public class CompareCharArrays
     {
-        static void Main()
+        /// <summary>
+        /// Write a program that compares two char arrays lexicographically (letter by letter).
+        /// </summary>
+        public static void Main()
         {
             string str1 = Console.ReadLine();
             string str2 = Console.ReadLine();

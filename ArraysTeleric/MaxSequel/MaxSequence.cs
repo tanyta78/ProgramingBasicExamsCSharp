@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MaxSequence
+﻿namespace MaxSequence
 {
-    class MaxSequence
+    using System;
+    /// <summary>
+    /// Write a program that finds the length of the maximal increasing sequence in an array of N integers.
+    /// </summary>
+
+    public class MaxSequence
     {
-        static void Main()
+        public static void Main()
         {
             int N = int.Parse(Console.ReadLine());
             int[] numbers = new int[N];
@@ -17,7 +16,7 @@ namespace MaxSequence
             numbers[0] = int.Parse(Console.ReadLine());
             for (int i = 1; i < N; i++)
             {
-                numbers[i]= int.Parse(Console.ReadLine());
+                numbers[i] = int.Parse(Console.ReadLine());
                 if (numbers[i] == numbers[i - 1])
                 {
                     currentSequance++;
@@ -26,15 +25,13 @@ namespace MaxSequence
                 {
                     currentSequance = 1;
                 }
-                if (currentSequance>maxSequance)
-                    {
-                        maxSequance = currentSequance;
-                    }
-                    
+                if (currentSequance > maxSequance)
+                {
+                    maxSequance = currentSequance;
                 }
-            Console.WriteLine(maxSequance);
-            }
 
+            }
+            Console.WriteLine(maxSequance);
         }
     }
-
+}

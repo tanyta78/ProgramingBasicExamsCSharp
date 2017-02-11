@@ -1,23 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FreqNumber
 {
-    class Program
+    /// <summary>
+    /// Write a program that finds the most frequent number in an array of N elements.
+    /// </summary>
+    public class Frequentnumber
     {
-        static void Main()
+        public static void Main()
         {
             int N = int.Parse(Console.ReadLine());
             int[] numbers = new int[N];
-           
+
             for (int i = 0; i < N; i++)
             {
-                numbers[i]= int.Parse(Console.ReadLine());
+                numbers[i] = int.Parse(Console.ReadLine());
             }
+
             Array.Sort(numbers);
+
             int currentCount = 1;
             int maxCount = 1;
             int number = 0;
@@ -43,7 +44,6 @@ namespace FreqNumber
                 number = numbers[0];
             }
             Console.WriteLine("{0} ({1} times)", number, maxCount);
-
         }
     }
 }
